@@ -4,7 +4,7 @@
 
 ## 📍About me
 
-I like figuring out how stuff works. Also making stuff work.
+I like figuring out how stuff works and making stuff work.
 
 <details>
   <summary>Longer Version</summary>
