@@ -6,20 +6,6 @@
 
 I like figuring out how stuff works and making stuff work.
 
-<details>
-  <summary>Longer Version</summary>
-  <br>
-  <p>
-    I still remember sitting in the dentist’s office, waiting for my appointment, when my mom handed me her old Sony Ericsson phone — the kind where you had to press the '7' key four times just to get to the letter 'S'. I was playing Snake, mesmerized by the little pixelated creature moving across the screen. But instead of just playing the game, I found myself wondering, "How does the snake know where to go? And how does the phone even make it all happen?" Those types of thoughts sparked a curiosity that never left me...
-    <br><br>
-    From that moment on, I was hooked on figuring out how things work, especially in the digital world. This curiosity has shaped my journey ever since, fueling my passion for continuous learning, problem-solving, and understanding the technology that powers our everyday lives.
-    <br><br>
-    As a highly motivated, creative, and detail-oriented person, I pride myself on balancing technical know-how with effective communication. Being a quick learner, I am always seeking opportunities to expand my skill set and tackling new challenges to contribute meaningfully to both individual and team goals. 
-    <br><br>
-    With a strong foundation in organizational skills, I manage projects efficiently, ensuring tasks are executed smoothly and deadlines are met without compromising quality. I’m passionate about professional growth and committed to achieving excellence in everything I do.
-  </p>
-</details>
-
 <br>
 
 ## 💻 Languages, Frameworks, Tools
